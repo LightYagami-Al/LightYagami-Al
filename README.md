@@ -10,7 +10,8 @@ Se você está lendo isso, ou você é um admirador secreto... ou só um curioso
 Este repositório contém anotações filosóficas, scripts simbólicos e planos que jamais deveriam ver a luz do dia.  
 Mas vamos ser honestos: o GitHub é mais seguro que um caderno largado na mochila de um estudante japonês, né?
 
-![ce88ffe870e4ffca2f3a52eee0eeacf2](https://github.com/user-attachments/assets/6db236d2-2989-4878-b0c3-292d09b55e24)
+![a3bfb7a9287b0e52b11686c1c0985c94](https://github.com/user-attachments/assets/64c84c49-8524-4b2b-b467-5fd39979b3e9)
+
 
 
 ---
@@ -24,6 +25,5 @@ Mas vamos ser honestos: o GitHub é mais seguro que um caderno largado na mochil
 - "Eu dei ctrl+alt+del na corrupção."
 
 ---
-
-## 🧾 Arquivos de Interesse
+![41a25e9f523ee23ceb0733579ad29f74](https://github.com/user-attachments/assets/f1ecaba4-82ec-48cd-92ac-868ae179948e)
 
