@@ -1,5 +1,9 @@
 # 🟥 kira-manifesto
 
+![f9c1c6aa711ecb15996f242a311d5028](https://github.com/user-attachments/assets/b63e7a53-1770-439c-8480-1d8c11b24876)
+
+
+
 > "O mundo está podre. Então eu abri um repositório." — Kira, provavelmente em algum domingo existencial
 
 ## 🧠 Introdução
