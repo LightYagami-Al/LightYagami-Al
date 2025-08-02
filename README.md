@@ -28,7 +28,7 @@ Mas vamos ser honestos: o GitHub é mais seguro que um caderno largado na mochil
 
 
 
-
+```
  ▒█████      ███▄ ▄███▓ █    ██  ███▄    █ ▓█████▄  ▒█████  
 ▒██▒  ██▒   ▓██▒▀█▀ ██▒ ██  ▓██▒ ██ ▀█   █ ▒██▀ ██▌▒██▒  ██▒
 ▒██░  ██▒   ▓██    ▓██░▓██  ▒██░▓██  ▀█ ██▒░██   █▌▒██░  ██▒
@@ -39,22 +39,7 @@ Mas vamos ser honestos: o GitHub é mais seguro que um caderno largado na mochil
 ░ ░ ░ ▒     ░      ░    ░░░ ░ ░    ░   ░ ░  ░ ░  ░ ░ ░ ░ ▒  
     ░ ░            ░      ░              ░    ░        ░ ░  
                                             ░               
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-
-
-
-
-
-
+``
 
 
 
