@@ -9,7 +9,7 @@ Se você está lendo isso, ou você é um admirador secreto... ou só um curioso
 
 Este repositório contém anotações filosóficas, scripts simbólicos e planos que jamais deveriam ver a luz do dia.  
 Mas vamos ser honestos: o GitHub é mais seguro que um caderno largado na mochila de um estudante japonês, né?
-
+# 新しい世界は優しい世界ではない。機能的なものになるだろう。
 ![a3bfb7a9287b0e52b11686c1c0985c94](https://github.com/user-attachments/assets/64c84c49-8524-4b2b-b467-5fd39979b3e9)
 
 
