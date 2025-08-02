@@ -38,4 +38,6 @@ Mas vamos ser honestos: o GitHub é mais seguro que um caderno largado na mochil
 ░ ░ ░ ▒        ░   ░ ░ ░ ░ ░ ▒       ░░  ░ ░ ░ ▒     ░      ░    ░░░ ░ ░    ░   ░ ░  ░ ░  ░ ░ ░ ░ ▒  
     ░ ░              ░     ░ ░        ░      ░ ░            ░      ░              ░    ░        ░ ░  
                                      ░                                               ░               
-``                                    
+```
+
+**Se você escreve ‘Kira’ de trás pra frente... continua sendo o medo na sua espinha.**
